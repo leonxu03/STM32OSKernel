@@ -1,0 +1,11 @@
+../Core/Src/tcb_array.c:7:6:initTCBarray	16	static
+../Core/Src/tcb_array.c:27:6:isArrayFull	16	static
+../Core/Src/tcb_array.c:31:6:hasReachedMaxActiveTasks	16	static
+../Core/Src/tcb_array.c:35:5:numOfActiveTasks	16	static
+../Core/Src/tcb_array.c:39:6:canAppendToStack	16	static
+../Core/Src/tcb_array.c:59:6:appendToStack	32	static
+../Core/Src/tcb_array.c:96:5:canReplaceDormantTaskInStack	24	static
+../Core/Src/tcb_array.c:110:6:getTCBAtCurrentIndex	16	static
+../Core/Src/tcb_array.c:114:6:replaceDormantTaskInStack	32	static
+../Core/Src/tcb_array.c:138:5:setTCBState	32	static
+../Core/Src/tcb_array.c:157:5:setTCBStackPointer	32	static

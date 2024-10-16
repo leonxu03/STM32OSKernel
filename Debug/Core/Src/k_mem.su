@@ -1,0 +1,14 @@
+../Core/Src/k_mem.c:6:5:k_mem_init	24	static
+../Core/Src/k_mem.c:38:6:k_mem_init_UnitTest	16	static
+../Core/Src/k_mem.c:44:7:k_mem_alloc	56	static
+../Core/Src/k_mem.c:130:6:k_mem_alloc_UnitTest	16	static
+../Core/Src/k_mem.c:140:5:k_mem_dealloc	32	static
+../Core/Src/k_mem.c:172:5:coalesce	56	static
+../Core/Src/k_mem.c:244:10:getBuddyBlockAddress	24	static
+../Core/Src/k_mem.c:255:8:getLowerAddressMemoryBlock	16	static
+../Core/Src/k_mem.c:263:6:k_mem_dealloc_UnitTest	80	static
+../Core/Src/k_mem.c:317:5:k_mem_count_extfrag	32	static
+../Core/Src/k_mem.c:346:6:k_mem_count_extfrag_UnitTest	16	static
+../Core/Src/k_mem.c:363:8:sizeOfAllocation	24	static
+../Core/Src/k_mem.c:374:6:sizeOfAllocation_UnitTest	8	static
+../Core/Src/k_mem.c:384:5:findStartingLevel	32	static
